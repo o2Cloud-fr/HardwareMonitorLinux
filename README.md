@@ -1,6 +1,6 @@
-# Linux Hardware Monitor
+# HardwareMonitorLinux
 
-**Linux Hardware Monitor** est une application graphique permettant de surveiller en temps réel les performances et caractéristiques matérielles d'un système Linux. L'application utilise une interface moderne avec le thème Arc et fournit des informations détaillées sur le CPU, la RAM, le GPU et le système.
+**HardwareMonitorLinux** est une application graphique permettant de surveiller en temps réel les performances et caractéristiques matérielles d'un système Linux. L'application utilise une interface moderne avec le thème Arc et fournit des informations détaillées sur le CPU, la RAM, le GPU et le système.
 
 - [x] Surveillance CPU en temps réel
 - [x] Monitoring mémoire RAM et SWAP
