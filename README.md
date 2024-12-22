@@ -30,7 +30,7 @@
 1. Clonez ce dépôt sur votre machine locale :
 
 ```bash
-git clone https://github.com/votre-username/linux-hardware-monitor.git
+git clone https://github.com/o2Cloud-fr/HardwareMonitorLinux.git
 ```
 
 2. Installez les dépendances système nécessaires (Ubuntu/Debian) :
@@ -68,7 +68,7 @@ python hardware_monitor.py
 ## 📂 Structure du Projet
 
 ```
-linux-hardware-monitor/
+HardwareMonitorLinux/
 ├── hardware_monitor.py
 ├── requirements.txt
 ├── README.md
@@ -77,7 +77,7 @@ linux-hardware-monitor/
 
 ## Authors
 
-- [@votre-username](https://www.github.com/votre-username)
+- [@o2Cloud-fr](https://www.github.com/o2Cloud-fr)
 
 ## Badges
 
