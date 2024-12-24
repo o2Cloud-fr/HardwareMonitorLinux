@@ -1,6 +1,6 @@
-# HardwareMonitorLinux
+# Linux Hardware Monitor
 
-**HardwareMonitorLinux** est une application graphique permettant de surveiller en temps réel les performances et caractéristiques matérielles d'un système Linux. L'application utilise une interface moderne avec le thème Arc et fournit des informations détaillées sur le CPU, la RAM, le GPU et le système.
+**Linux Hardware Monitor** est une application graphique permettant de surveiller en temps réel les performances et caractéristiques matérielles d'un système Linux. L'application utilise une interface moderne avec le thème Arc et fournit des informations détaillées sur le CPU, la RAM, le GPU et le système.
 
 - [x] Surveillance CPU en temps réel
 - [x] Monitoring mémoire RAM et SWAP
@@ -30,7 +30,7 @@
 1. Clonez ce dépôt sur votre machine locale :
 
 ```bash
-git clone https://github.com/o2Cloud-fr/HardwareMonitorLinux.git
+git clone https://github.com/votre-username/linux-hardware-monitor.git
 ```
 
 2. Installez les dépendances système nécessaires (Ubuntu/Debian) :
@@ -68,7 +68,7 @@ python hardware_monitor.py
 ## 📂 Structure du Projet
 
 ```
-HardwareMonitorLinux/
+linux-hardware-monitor/
 ├── hardware_monitor.py
 ├── requirements.txt
 ├── README.md
@@ -77,7 +77,7 @@ HardwareMonitorLinux/
 
 ## Authors
 
-- [@o2Cloud-fr](https://www.github.com/o2Cloud-fr)
+- [@votre-username](https://www.github.com/votre-username)
 
 ## Badges
 
