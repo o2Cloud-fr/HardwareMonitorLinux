@@ -89,7 +89,7 @@ Voir `contributing.md` pour commencer.
 
 ## 💬 Feedback
 
-Si vous avez des commentaires, vous pouvez nous contacter à feedback@example.com
+Si vous avez des commentaires, vous pouvez nous contacter à github@o2cloud.fr
 
 ## 🔗 Liens
 
