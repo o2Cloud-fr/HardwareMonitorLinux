@@ -29,7 +29,7 @@
 
 1. Clonez ce dépôt sur votre machine locale :
 ```bash
-git clone [https://github.com/votre-username/linux-hardware-monitor.git](https://github.com/o2Cloud-fr/HardwareMonitorLinux)
+git clone https://github.com/votre-username/linux-hardware-monitor.git
 ```
 
 2. Installez les dépendances système nécessaires (Ubuntu/Debian) :
