@@ -114,7 +114,7 @@ Python, PyQt, Linux System Programming
 
 ## 🆘 Support
 
-Pour obtenir de l'aide, envoyez un email à support@example.com
+Pour obtenir de l'aide, envoyez un email à github@o2cloud.fr
 
 ## 💻 Technologies utilisées
 
